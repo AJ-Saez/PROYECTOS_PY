@@ -18,4 +18,4 @@ elif camino=="bajar" :
         elif puertas=="gris" :
            print("te muerde una serpiente 'GAME OVER'")    
         elif puertas=="verde" :
-           print("conseguiste el tesoro Ganaste un trofeo")  
+           print("conseguiste el tesoro Ganaste un trofeo de oro")  
